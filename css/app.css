@@ -357,6 +357,11 @@ a, a:visited, a:hover {
   font-weight: normal;
   color: #005587; }
 
+.checkmark {
+  width: 27px !important;
+  height: 25px !important;
+  max-width: auto; }
+
 img.prod-logo {
   height: 55px !important; }
 
